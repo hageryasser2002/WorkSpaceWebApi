@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7AEXEERnpHXVGZaniishQM6mgNLXNJHzKj9cInn3zl0=",
+  "Source": "WorkSpaceWebAPI",
+  "BasePath": "_content/WorkSpaceWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
